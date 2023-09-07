@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Veron</h1>
-🔭 I’m currently working at Nokia
 
 📫 How to reach me: **veronhoxha@yahoo.com**
 
