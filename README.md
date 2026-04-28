@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Veron</h1>
+<h1 align="center">Hi, I am Veron</h1>
 
 📫 How to reach me: **veronhoxha@yahoo.com**
 
